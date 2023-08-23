@@ -1,1 +1,3 @@
 // deployed link here:
+
+https://nextblog2.netlify.app/
